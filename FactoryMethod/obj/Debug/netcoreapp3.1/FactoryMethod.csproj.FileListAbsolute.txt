@@ -1,0 +1,13 @@
+C:\Users\sanadr02\source\repos\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.exe
+C:\Users\sanadr02\source\repos\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.deps.json
+C:\Users\sanadr02\source\repos\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.runtimeconfig.json
+C:\Users\sanadr02\source\repos\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.runtimeconfig.dev.json
+C:\Users\sanadr02\source\repos\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.dll
+C:\Users\sanadr02\source\repos\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.pdb
+C:\Users\sanadr02\source\repos\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.csprojAssemblyReference.cache
+C:\Users\sanadr02\source\repos\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.AssemblyInfoInputs.cache
+C:\Users\sanadr02\source\repos\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.AssemblyInfo.cs
+C:\Users\sanadr02\source\repos\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\sanadr02\source\repos\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.dll
+C:\Users\sanadr02\source\repos\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.pdb
+C:\Users\sanadr02\source\repos\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.genruntimeconfig.cache
